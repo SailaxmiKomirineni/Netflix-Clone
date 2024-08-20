@@ -1,0 +1,29 @@
+.bottom-container{
+    width:80%;
+    padding:60px;
+    margin: auto;
+}
+.footer{  
+    display: flex;
+    justify-content: space-between;
+    color:#acabab;
+}
+.part{
+    display: flex;
+    flex-direction: column;
+}
+.part a{
+    text-decoration: underline;
+    margin-bottom: 10px;
+    color:#9eafa9;
+}
+.part span{
+    margin-bottom: 10px;
+}
+.call{
+    color:#acabab;
+    margin-bottom: 20px;
+}
+.part a:hover{
+    cursor: pointer;
+}

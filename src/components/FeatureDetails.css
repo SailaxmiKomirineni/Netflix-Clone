@@ -1,0 +1,25 @@
+.display-features-cards{
+    width:80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:100px 20px;
+    
+}
+.features-text{
+    width:45%;
+}
+.features-text h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.features-text h2{
+    font-size: 23px;
+}
+.card-img{
+    width:50%;
+}
+.card-img-stranger{
+    width:30%;
+}
